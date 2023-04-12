@@ -1,3 +1,4 @@
+//環境変数設定
 var CHANNEL_ACCESS_TOKEN = PropertiesService.getScriptProperties().getProperty("ACCESS_TOKEN");
 var SHEET_ID = PropertiesService.getScriptProperties().getProperty("SHEET_ID");
 var USER_ID = PropertiesService.getScriptProperties().getProperty("USER_ID");
