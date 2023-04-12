@@ -8,6 +8,7 @@
 
 ### [API]
 ・LINE Messaging API
+
 ・Trello API
 
 
@@ -23,6 +24,7 @@
 
 ### [API]
 ・LINE Messaging API
+
 ・Google Calendar API
 
 
