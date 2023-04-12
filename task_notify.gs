@@ -1,3 +1,4 @@
+//環境変数設定
 var CHANNEL_ACCESS_TOKEN = PropertiesService.getScriptProperties().getProperty("CHANNEL_ACCESS_TOKEN");
 var ERROR_SHEET_ID = PropertiesService.getScriptProperties().getProperty("ERROR_SHEET_ID");
 var TRIGGER_SETTIME_SHEET_ID = PropertiesService.getScriptProperties().getProperty("TRIGGER_SETTIME_SHEET_ID");
